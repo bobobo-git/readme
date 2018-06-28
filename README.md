@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-http://bobobo-git.github.io/readme
+[https://bobobo-git.github.io/readme](https://bobobo-git.github.io/readme)
 
 You can use the [editor on GitHub](https://github.com/bobobo-git/readme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
