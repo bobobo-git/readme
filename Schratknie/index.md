@@ -4,7 +4,7 @@
 
 Da ist ein Schrat  
 der etwas hat  
-was aussieht wie  
+das aussieht wie  
 ein dickes Knie.  
 
 Der Schrat ruft: "AU!  
@@ -15,7 +15,7 @@ Du mieses Stück!"
 Frau Schrat hört zu   
 und denkt mit Ruh':   
 "Dem helf ich ab!"   
-und schneid't es ab.   
+und hackt es ab.   
 
 Der Schrat ruft :"AU!"   
 nun mit Radau.   
