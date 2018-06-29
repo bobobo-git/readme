@@ -1,3 +1,5 @@
+[back](../)
+
 # Dem Schrat sein Knie
 
 Da ist ein Schrat  
@@ -20,8 +22,5 @@ nun mit Radau.
 Frau Schrat :"Na und?   
 nun hast Du 'n Grund."   
 
-
-[back](../)
-
-
+[back](../)  
 <small> is mine & stay mine</small>
