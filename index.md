@@ -1,4 +1,4 @@
-bobobo *noises & stuff*
+bobobo *text & stuff*
 
 nothing to see here
 
