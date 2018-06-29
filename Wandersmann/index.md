@@ -1,7 +1,7 @@
 ![](Wandersmann_00.jpg)  
 ![](Wandersmann_01.jpg)  
+![](Wandersmann_02.jpg)  
 ![](Wandersmann_03.jpg)  
-![](Wandersmann_04.jpg)  
 
 [back](../)
 
