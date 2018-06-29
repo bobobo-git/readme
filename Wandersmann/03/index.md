@@ -1,5 +1,5 @@
+[end](../../)  
 ![](Wandersmann_03.jpg)  
-
-[end](../../)
+[end](../../)   
 
 <small> is mine & stay mine</small>

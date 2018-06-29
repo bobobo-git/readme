@@ -1,5 +1,5 @@
+[next](../03)  
 ![](Wandersmann_02.jpg)  
-
-[next](../03)
+[next](../03)  
 
 <small> is mine & stay mine</small>
