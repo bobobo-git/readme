@@ -2,7 +2,7 @@
 
 [back](../01)
 
-[end](../../../)
+[end](../../)
 
 
 <small> is mine & stay mine</small>
