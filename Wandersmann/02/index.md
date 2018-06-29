@@ -1,6 +1,6 @@
-![](Wandersmann_00.jpg)  
+![](Wandersmann_02.jpg)  
 
-[next](01)
+[next](../03)
 
 [back](../)
 
