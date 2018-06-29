@@ -1,7 +1,4 @@
-# bobobo
-## *noises & stuff*
-
-# hi
+bobobo *noises & stuff*
 
 nothing to see here
 
