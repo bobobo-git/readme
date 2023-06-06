@@ -6,7 +6,7 @@ a [poem](Schratknie)
 and [another poem](Wandersmann)
 
 ### and what the robot made for me   
-- [oxes](whattherobotmade/oxes)  
+- [oxes](whattherobotmade/index_oxes.md)  
 - [oxes II](whattherobotmade/oxes%20II)  
 - [sparrows](whattherobotmade/sparrows)    
 - [little black dogs](whattherobotmade/little%20black%20dogs)  
