@@ -9,7 +9,7 @@ and [another poem](Wandersmann)
 ( i tickled the chatgpt with some questions and that is what it told me)  
 
 - [oxes](whattherobotmade/oxes)  
-- [oxes II](whattherobotmade/oxes%20II)  
+- [oxes II](whattherobotmade/oxes%20II)
 - [sparrows](whattherobotmade/sparrows)    
 - [little black dogs](whattherobotmade/little%20black%20dogs)  
 
