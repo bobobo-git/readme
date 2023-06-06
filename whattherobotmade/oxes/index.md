@@ -1,4 +1,4 @@
-  
+[back](../../)    
   
 (Verse 1)  
 Mama, take this plow from my hands  
