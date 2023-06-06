@@ -6,6 +6,8 @@ a [poem](Schratknie)
 and [another poem](Wandersmann)
 
 ### and what the robot made for me   
+( i tickled the chatgpt with some questions and that is what it told me)  
+
 - [oxes](whattherobotmade/oxes)  
 - [oxes II](whattherobotmade/oxes%20II)  
 - [sparrows](whattherobotmade/sparrows)    
