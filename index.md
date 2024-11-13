@@ -1,7 +1,5 @@
 bobobo *text & stuff*
 
-nothing to see here
-
 a [poem](Schratknie)  
 and [another poem](Wandersmann)
 
